@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.6fa8d653.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.a14a7d88.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.a14a7d88.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.1599a6f9.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.63dfdacf.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.63dfdacf.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.f68edf73.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.f68edf73.js.map",
     "static/css/2.58d385f6.chunk.css": "/react-portfolio/static/css/2.58d385f6.chunk.css",
-    "static/js/2.ed95e66c.chunk.js": "/react-portfolio/static/js/2.ed95e66c.chunk.js",
-    "static/js/2.ed95e66c.chunk.js.map": "/react-portfolio/static/js/2.ed95e66c.chunk.js.map",
+    "static/js/2.a3271d33.chunk.js": "/react-portfolio/static/js/2.a3271d33.chunk.js",
+    "static/js/2.a3271d33.chunk.js.map": "/react-portfolio/static/js/2.a3271d33.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.28421c43ec7ce770aa46257da9355966.js": "/react-portfolio/precache-manifest.28421c43ec7ce770aa46257da9355966.js",
+    "precache-manifest.800cc3d736d4ed59595906db7ae4868e.js": "/react-portfolio/precache-manifest.800cc3d736d4ed59595906db7ae4868e.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.58d385f6.chunk.css.map": "/react-portfolio/static/css/2.58d385f6.chunk.css.map",
-    "static/css/main.6fa8d653.chunk.css.map": "/react-portfolio/static/css/main.6fa8d653.chunk.css.map",
-    "static/js/2.ed95e66c.chunk.js.LICENSE": "/react-portfolio/static/js/2.ed95e66c.chunk.js.LICENSE",
-    "static/media/aguaDeLuz.png": "/react-portfolio/static/media/aguaDeLuz.851ac5cd.png",
+    "static/css/main.1599a6f9.chunk.css.map": "/react-portfolio/static/css/main.1599a6f9.chunk.css.map",
+    "static/js/2.a3271d33.chunk.js.LICENSE": "/react-portfolio/static/js/2.a3271d33.chunk.js.LICENSE",
+    "static/media/doodle-3.png": "/react-portfolio/static/media/doodle-3.462d5eed.png",
     "static/media/earth.jpg": "/react-portfolio/static/media/earth.67af05e1.jpg",
     "static/media/font-awesome.css": "/react-portfolio/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/ionicons.css": "/react-portfolio/static/media/ionicons.621bd386.svg"
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.f68edf73.js",
     "static/css/2.58d385f6.chunk.css",
-    "static/js/2.ed95e66c.chunk.js",
-    "static/css/main.6fa8d653.chunk.css",
-    "static/js/main.a14a7d88.chunk.js"
+    "static/js/2.a3271d33.chunk.js",
+    "static/css/main.1599a6f9.chunk.css",
+    "static/js/main.63dfdacf.chunk.js"
   ]
 }
