@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.42ee8330.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.4dbe83d3.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.4dbe83d3.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.7938dc9c.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.cc815122.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.cc815122.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.f68edf73.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.f68edf73.js.map",
     "static/css/2.e2d51d62.chunk.css": "/react-portfolio/static/css/2.e2d51d62.chunk.css",
-    "static/js/2.f40b5523.chunk.js": "/react-portfolio/static/js/2.f40b5523.chunk.js",
-    "static/js/2.f40b5523.chunk.js.map": "/react-portfolio/static/js/2.f40b5523.chunk.js.map",
+    "static/js/2.d889527c.chunk.js": "/react-portfolio/static/js/2.d889527c.chunk.js",
+    "static/js/2.d889527c.chunk.js.map": "/react-portfolio/static/js/2.d889527c.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.7ab79067920c3bbe459214f6825b3580.js": "/react-portfolio/precache-manifest.7ab79067920c3bbe459214f6825b3580.js",
+    "precache-manifest.687ec4561f49d06be6df944fb321b573.js": "/react-portfolio/precache-manifest.687ec4561f49d06be6df944fb321b573.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.e2d51d62.chunk.css.map": "/react-portfolio/static/css/2.e2d51d62.chunk.css.map",
-    "static/css/main.42ee8330.chunk.css.map": "/react-portfolio/static/css/main.42ee8330.chunk.css.map",
-    "static/js/2.f40b5523.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.f40b5523.chunk.js.LICENSE.txt",
+    "static/css/main.7938dc9c.chunk.css.map": "/react-portfolio/static/css/main.7938dc9c.chunk.css.map",
+    "static/js/2.d889527c.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.d889527c.chunk.js.LICENSE.txt",
     "static/media/earth.jpg": "/react-portfolio/static/media/earth.67af05e1.jpg",
     "static/media/sample.png": "/react-portfolio/static/media/sample.b61f96d4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f68edf73.js",
     "static/css/2.e2d51d62.chunk.css",
-    "static/js/2.f40b5523.chunk.js",
-    "static/css/main.42ee8330.chunk.css",
-    "static/js/main.4dbe83d3.chunk.js"
+    "static/js/2.d889527c.chunk.js",
+    "static/css/main.7938dc9c.chunk.css",
+    "static/js/main.cc815122.chunk.js"
   ]
 }
