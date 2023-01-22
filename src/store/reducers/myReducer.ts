@@ -1,3 +1,3 @@
-import sampleReducer from './sampleReducer'
+import parkerReducer from './parkerReducer'
 
-export default sampleReducer
+export default parkerReducer

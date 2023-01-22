@@ -12,6 +12,7 @@ export default interface Portfolio {
     menu: {
         home: string
         about: string
+        portfolio: string
     }
     intro: {
         headline: string

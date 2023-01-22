@@ -2,21 +2,26 @@ import Portfolio from '../../models/portfolio'
 
 export const initState: Portfolio = {
     meta: {
-        title: 'My Portfolio',
-        description: 'Lots of info about you.',
+        title: 'Craig Parker\'s Portfolio',
+        description: `Technical and innovative software development professional and military veteran
+        with 3 years of hands-on experience in full-stack software development. Focused and
+        efficient learner with practical expertise in building reusable user interface and
+        robust backend components. Provided technical mentorship and training for new
+        employees with a focus on clean and maintainable code.`,
         showRepoLink: true,
     },
     menu: {
         home: 'Hello',
         about: 'Resume',
-        portfolio: 'something'
+        portfolio: 'Portfolio'
     },
     intro: {
-        headline: "Hi. Let's talk.",
+        headline: `Kenneth Craig Parker
+        Fullstack Software Engineer`,
         typed: [
-            "I'm a front-end developer",
-            'who can edit JSON',
-            'and deploy it.',
+            "Front End",
+            'Back End',
+            'C#, Java, React, SQL'
         ],
     },
     resume: {
@@ -149,7 +154,7 @@ export const initState: Portfolio = {
         ],
         footerMessage: 'Thanks for reading.',
         background: '',
-    },
+    }
 }
 
 export default (state: Portfolio = initState) => {
